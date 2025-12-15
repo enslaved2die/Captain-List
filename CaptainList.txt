@@ -1,5 +1,5 @@
 ! Title: Captain List
-! Description: A blog list for everything Microsoft Copilot, Im ne Captain I decide!
+! Description: A block list for everything Microsoft Copilot, Im ne Captain I decide!
 
 ||copilot.microsoft.com^
 ||copilot.com^
