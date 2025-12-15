@@ -8,5 +8,10 @@
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||telemetry.microsoft.com^
+||telemetry.appinsights.in^
+||settings-win.data.microsoft.com^
 ||us.vortex-win.data.microsoft.com^
 ||config.edge.skype.com^
+||wdcp.microsoft.com^
+||diag.microsoft.com^
+||pipe.aria.microsoft.com^
