@@ -1,0 +1,12 @@
+! Title: Captain List
+! Description: A blog list for everything Microsoft Copilot, Im ne Captain I decide!
+
+||copilot.microsoft.com^
+||copilot.com^
+||copilot.ai^
+||bing.com/chat^
+||v10.events.data.microsoft.com^
+||v20.events.data.microsoft.com^
+||telemetry.microsoft.com^
+||us.vortex-win.data.microsoft.com^
+||config.edge.skype.com^
